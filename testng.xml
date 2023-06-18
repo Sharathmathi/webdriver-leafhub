@@ -3,7 +3,7 @@
 <suite name="Learner Hub">
   <test name="Login">
     <classes>
-      <class name="com.learnerhub.testcases.TC001_JustLogin"/>
+      <class name="com.learnerhub.testcases.TC003_ForgotPassword"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
